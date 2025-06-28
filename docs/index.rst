@@ -6,12 +6,11 @@ Is your **Mazda GPS not working** just when you needed it the most? 😓 Don’t
 
 A well-functioning GPS system isn't just a luxury anymore — it's a necessity. Whether you're commuting, traveling to a new place, or avoiding traffic, a glitchy navigation system can be a major headache. Let's learn how to resolve **Mazda GPS issues** and get back on track! 🛣️
 
-.. image:: start.png
+.. image:: not-working.png
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://navisolve.com/
-
+   :target: https://getchatsupport.live/
 
 
 Common Signs of Mazda GPS Not Working ⚠️
